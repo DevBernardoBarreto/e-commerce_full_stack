@@ -17,7 +17,7 @@ Nexo é uma loja online com catálogo, carrinho, checkout, pedidos e painel admi
 - Interface responsiva com identidade visual e rotas da loja/admin (conteúdo placeholder)
 - MySQL 8 no Docker Compose
 
-**Planejado**
+**Check**
 
 - Cadastro, login e JWT
 - Catálogo, categorias, busca, filtros e paginação
